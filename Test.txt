@@ -6,3 +6,7 @@ one more thing
 from person A   
 AA
 ------------------
+
+from person b
+bb
+-0-----------
